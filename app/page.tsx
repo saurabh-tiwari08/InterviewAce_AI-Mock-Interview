@@ -337,7 +337,7 @@ export default function Home() {
       </main>
 
       <footer className="text-center py-8 text-xs text-yellow/20 font-mono">
-        Built by Prateek Tiwari with ❤️ · Powered by Gemini AI
+        Built by Saurabh Tiwari with ❤️ · Powered by Gemini AI
       </footer>
     </div>
   );
